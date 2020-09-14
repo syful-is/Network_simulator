@@ -1,7 +1,7 @@
 # Network simulator (NS)
 # Title: What  Network  Simulator  Questions  Do  Users  Ask?   A  Large-Scale Study of Stack Overflow Posts,
 
-#Abstract
+# Abstract
 
 # Replication package Structure:
 ```
@@ -31,3 +31,7 @@
   
   4. Example-1: Run the LDA topic modeling **[01_NS_LDA.ipynb](https://github.com/syful-is/Network_simulator/blob/master/Script/01_NS_LDA.ipynb)** 
 
+# Authors:
+  1. [Syful Islam](https://syful-is.github.io/)
+  2. [Yusuf Sulistyo Nugroho](https://yusufsn.github.io/)
+  3. 
