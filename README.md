@@ -47,4 +47,4 @@ The use of network simulator as a modern tool in analyzing and predicting the be
 # Authors:
   1. [Syful Islam](https://syful-is.github.io/)
   2. [Yusuf Sulistyo Nugroho](https://yusufsn.github.io/)
-  3. 
+  3. [Md. Javed Hossain](http://www.nstu.edu.bd/faculty-member/md-javed-hossain-bdr991)
