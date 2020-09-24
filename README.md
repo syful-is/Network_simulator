@@ -50,7 +50,7 @@ The use of network simulator as a modern tool in analyzing and predicting the be
   3. [Md. Javed Hossain](http://www.nstu.edu.bd/faculty-member/md-javed-hossain-bdr991)
   
 ## MIT License for code
-Our SZZ implementation is licensed under the [MIT License](LICENSE.md).
+Our SZZ implementation is licensed under the [MIT License](LICENSE).
 
 ## CC0 1.0 Universal for dataset
 CC0 [summary](https://creativecommons.org/publicdomain/zero/1.0/) and [legal text](https://creativecommons.org/publicdomain/zero/1.0/legalcode)
