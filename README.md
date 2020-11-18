@@ -2,20 +2,20 @@
 [https://github.com/syful-is/Network_simulator](https://github.com/syful-is/Network_simulator)
 
 ## Abstract
-The use of network simulator as a modern tool in analyzing and predicting the behaviour of computer networks has grown to reduce the complexity of its accuracy measurement.
- This attracts the researchers and practitioners to share problems and discuss to improve the features.
- To communicate the issues relates to network simulators, users move to an online discussion platform, such as Stack Overflow.
- Although recent studies have shown the popularity and benefits of adopting network simulation tools, however, the challenges of using network simulator that users face remain mostly unknown. 
- Therefore, in this paper, we examine 2,322 network-simulator-related Stack Overflow posts to provide insights on the topics that users are interested and the challenges they face. 
- We apply the Latent Dirichlet Allocation topic modeling to understand the topics that are being discussed in Stack Overflow. 
- Then, we investigate the popularity and difficulty of each topic.
- The results of this study show that users use Stack Overflow as an implementation guideline for network simulation model. 
- We determine 8 discussion topics (e.g., network simulator installation) that are merged into 5 major categories.
- Most of the posts discuss simulation model configuration. 
- We also observe that target network protocol modification and network simulator installation are the most popular topics among the users compared to other topics. 
- Users are specially facing challenges on network simulator installation and Target Network Protocol modification issues. 
- The findings also highlight for future research to propose techniques to help the research community at its early stages to overcome the most popular and difficult topics that practitioners face when using network simulation tools.
- 
+The use of network simulator as a modern tool in analyzing and predicting the behaviour of computer networks has grown to reduce the complexity of its accuracy measurement. 
+This attracts researchers and practitioners to share problems and discuss them to improve the features.  
+To communicate the related issues, users move to an online discussion platform, such as Stack Overflow.
+Although recent studies have shown the popularity and benefits of adopting network simulation tools, however, the challenges of using network simulator that users face remain unknown. 
+In this paper, we examine 2,322 network-simulator-related Stack Overflow posts to extract insights on the topics and challenges that users discussed. 
+We apply the Latent Dirichlet Allocation topic modelling to understand the topics discussed in Stack Overflow. 
+We then investigate the popularity and difficulty of each topic.  
+The results show that users use Stack Overflow as an implementation guideline for the network simulation model.
+We determine 8 discussion topics that are merged into 5 major categories. 
+Simulation model configuration is the most useful topic for users. 
+We also observe that target network protocol modification and network simulator installation are the most popular topics. 
+Network simulator installation and Target Network Protocol modification issues have been challenging for most users. 
+The findings also highlight future research to propose techniques to help the research community in its early stages to overcome the most popular and difficult topics that practitioners face when using network simulation tools.
+    
 ## Replication package Structure:
 ```
 📁 Network_simulator project/
