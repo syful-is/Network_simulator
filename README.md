@@ -9,7 +9,6 @@ The use of network simulator as a modern tool in analyzing and predicting the be
 📁 Network_simulator project/
 ├─ 📁 Dataset/
 ├─ 📁 Scripts/ 
-├─ 📁 Results/
 ─
 ```
 ## Contents:
@@ -20,18 +19,7 @@ The use of network simulator as a modern tool in analyzing and predicting the be
 ## How to run:
   1. Clone the repository from [here](https://github.com/syful-is/Network_simulator.git)
   2. Extract the files.
-  3. Open `Jupyter Notebook` or `Python Spyder`.
-  4. Copy any code and Set your working directory using 
-                
-                ```
-                import os
-                
-                #Please specify your dataset directory. 
-                os.chdir("..../Dataset/")
-                ```
-  
-  4. Example-1: Run the LDA topic modeling **[02_NS_keywords_extract.ipynb](https://github.com/syful-is/Network_simulator/blob/master/Script/02_NS_keywords_extract.ipynb)** 
-
+ 
 ## Authors:
   1. [Syful Islam](https://syful-is.github.io/)
   2. [Yusuf Sulistyo Nugroho](https://yusufsn.github.io/)
