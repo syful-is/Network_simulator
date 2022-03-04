@@ -8,6 +8,7 @@ The use of network simulator as a modern tool in analyzing and predicting the be
 ```
 📁 Network_simulator project/
 ├─ 📁 Dataset/
+├─ 📁 Scripts/
 ├─ 📁 Results/ 
 ─
 ```
