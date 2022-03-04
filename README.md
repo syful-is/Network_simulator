@@ -13,8 +13,7 @@ The use of network simulator as a modern tool in analyzing and predicting the be
 ```
 ## Contents:
   1. [Dataset](https://github.com/syful-is/Network_simulator/tree/master/Data)- is a folder that contains the dataset for `NS project`.
-  2. [Scripts](https://github.com/syful-is/Network_simulator/tree/master/Script)- is a folder that contains the all the codes. 
-  3. [Results](https://github.com/syful-is/Network_simulator/tree/master/Results)- is a folder that contains the results obtained from dataset.
+  2. [Results](https://github.com/syful-is/Network_simulator/tree/master/Results)- is a folder that contains the results obtained from dataset.
 
 ## How to run:
   1. Clone the repository from [here](https://github.com/syful-is/Network_simulator.git)
