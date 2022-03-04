@@ -14,7 +14,28 @@ The use of network simulator as a modern tool in analyzing and predicting the be
 ```
 ## Contents:
   1. [Dataset](https://github.com/syful-is/Network_simulator/tree/master/Data)- is a folder that contains the dataset for `NS project`.
-  2. [Results](https://github.com/syful-is/Network_simulator/tree/master/Results)- is a folder that contains the results obtained from dataset.
+  2. [Scripts](https://github.com/syful-is/Network_simulator/tree/master/Script)- is a folder that contains the all the codes.
+  3. [Results](https://github.com/syful-is/Network_simulator/tree/master/Results)- is a folder that contains the results obtained from dataset.
+
+## How to run:
+
+    Clone the repository from here
+
+    Extract the files.
+
+    Open Jupyter Notebook or Python Spyder.
+
+    Copy any code and Set your working directory using
+
+           ```
+           import os
+           
+           #Please specify your dataset directory. 
+           os.chdir("..../Dataset/")
+           ```
+
+    Example-1: Run the LDA topic modeling [01_NS_LDA.ipynb](https://github.com/syful-is/Network_simulator/blob/master/Script/01_NS_LDA.ipynb)
+
 
  
 ## Authors:
