@@ -30,7 +30,7 @@ The use of network simulator as a modern tool in analyzing and predicting the be
                 os.chdir("..../Dataset/")
                 ```
   
-  4. Example-1: Run the LDA topic modeling **[01_NS_LDA.ipynb](https://github.com/syful-is/Network_simulator/blob/master/Script/01_NS_LDA.ipynb)** 
+  4. Example-1: Run the LDA topic modeling **[02_NS_keywords_extract.ipynb](https://github.com/syful-is/Network_simulator/blob/master/Script/02_NS_keywords_extract.ipynb)** 
 
 ## Authors:
   1. [Syful Islam](https://syful-is.github.io/)
