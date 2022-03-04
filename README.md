@@ -19,13 +19,10 @@ The use of network simulator as a modern tool in analyzing and predicting the be
 
 ## How to run:
 
-    Clone the repository from here
-
-    Extract the files.
-
-    Open Jupyter Notebook or Python Spyder.
-
-    Copy any code and Set your working directory using
+    1. Clone the repository from here
+    2. Extract the files.
+    3. Open Jupyter Notebook or Python Spyder.
+    4. Copy any code and Set your working directory using
 
            ```
            import os
