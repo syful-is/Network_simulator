@@ -30,8 +30,7 @@ The use of network simulator as a modern tool in analyzing and predicting the be
            #Please specify your dataset directory. 
            os.chdir("..../Dataset/")
            ```
-
-    Example-1: Run the LDA topic modeling [01_NS_LDA.ipynb](https://github.com/syful-is/Network_simulator/blob/master/Script/01_NS_LDA.ipynb)
+Example-1: Run the LDA topic modeling [01_NS_LDA.ipynb](https://github.com/syful-is/Network_simulator/blob/master/Script/01_NS_LDA.ipynb)
 
 
  
